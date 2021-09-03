@@ -1,5 +1,5 @@
 # Desafio iBlue
-Criação de Banco de Dados PostgreSQL e Pipeline ETL.
+Desafio do Trainee iBlue - Criação de Banco de Dados PostgreSQL e Pipeline ETL.
 
 
 ## ERD
