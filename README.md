@@ -2,7 +2,7 @@
 Desafio do Trainee iBlue - Criação de Banco de Dados PostgreSQL e Pipeline ETL.
 
 
-## ERD
+## Star Schema
 ![](https://github.com/andmonteiro/desafio_iblue/blob/main/erd.png)
 
 No terminal, execute os seguintes comandos:
