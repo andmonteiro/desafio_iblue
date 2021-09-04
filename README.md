@@ -7,7 +7,7 @@ Desafio do Trainee iBlue - Criação de Banco de Dados PostgreSQL e Pipeline ETL
 
 No terminal, execute os seguintes comandos:
 
-`python create.py` - cria o banco de dados e as tabelas.
+`python create_tables.py` - cria o banco de dados e as tabelas.
 
 `python etl.py` - processa e carrega os dados no banco de dados.
 
